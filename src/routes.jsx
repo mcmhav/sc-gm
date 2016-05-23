@@ -7,8 +7,8 @@ import {
     hashHistory
 } from 'react-router';
 
-import App from './components/features/App';
-import FrontView from './components/features/FrontView';
+import App from './features/App';
+import FrontView from './features/FrontView';
 
 const routes = (
     <Router history={ hashHistory }>

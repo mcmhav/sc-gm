@@ -3,9 +3,9 @@ import { connect } from 'react-redux';
 
 class App extends React.Component {
     render() {
+        console.log(SC);
         return (
             <div className="index">
-                <Menu/>
                 <div className="view-body">
                     { this.props.children }
                 </div>

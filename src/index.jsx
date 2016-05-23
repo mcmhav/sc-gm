@@ -11,8 +11,6 @@ import routes from './routes'
 
 import reducer from './state-logic/combiner'
 
-import './main.less';
-
 const logger = createLogger();
 const store = createStore(
     reducer,
