@@ -1,2 +1,2 @@
-# sc-gm-inter
+# sc-gm
 soundcloud and googlemusic integration
